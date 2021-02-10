@@ -1,10 +1,8 @@
 # ld4
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Command line program that implements a rail fence algorithm (https://en.wikipedia.org/wiki/Rail_fence_cipher)
+<br>
+Function encrypt and decrypt requires two parameters: a string to decrypt, and rail fence depth
 
 ## License
 
